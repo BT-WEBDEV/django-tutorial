@@ -1,0 +1,16 @@
+# Ignore the virtual environment folder
+tutorial-venv/
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+# Ignore Django migrations
+*/migrations/
+# Ignore database files
+*.sqlite3
+# Ignore environment variables file
+.env
+# Ignore other unnecessary files
+*.log
+*.pot
+*.pyc
+*.swp
